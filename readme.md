@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kshitij</h1>
+<h1 align="center">Hi, I'm Kshitij</h1>
 <h3 align="center">A Computer Science and Engineering (CSE) B.E student from Nagpur University. Experienced in Web Development. I am well versed with Node, Rest Apis, Javascript, Java and basics of Typescript & CSS.</h3>
 
 
 ## Technical Skills
 
 - **LANGUAGES**:
-Java, Javascript, C, C++, Familiar with Typescript and Python
+Javascript, C, C++, Familiar with Typescript and Python
 
 - **FRAMEWORKS**:
-NodeJS, mongoDB, React, Bootstrap
+  React, Bootstrap, Tailwind
 
 
 -  **Porfolio Website :** **[Portfolio](https://kshitijingale.github.io/Portfolio)**
