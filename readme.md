@@ -12,7 +12,7 @@ Javascript, C, C++, Familiar with Typescript and Python
   React, Bootstrap, Tailwind
 
 
--  **Porfolio Website :** **[Portfolio](https://kshitijingale.github.io/Portfolio)**
+-  **Porfolio Website :** **[Portfolio](https://kshitijingale.github.io/portfolio-2.0/)**
 
 - Email: **kshitijingale2@gmail.com**
 
